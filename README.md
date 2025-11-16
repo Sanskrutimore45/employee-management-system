@@ -49,6 +49,6 @@ Edit Employee
 Delete Employee
 View All Employees
 
-🔗 React → Spring Boot API integration
+# React → Spring Boot API integration
 
-🗄️ MySQL database
+# MySQL database
